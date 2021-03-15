@@ -20,3 +20,5 @@ obj.draw()
 obj2 = Rectangle()
 
 obj2.draw()
+
+print("lines added")
